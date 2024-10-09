@@ -1,5 +1,5 @@
 rootProject.name = 'demo'
 include(
-    "prd",
-    "ysy"
+    "prd:api",
+    "ysy:api"
 )
